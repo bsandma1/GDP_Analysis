@@ -5,6 +5,10 @@ I have provided my initial scope for the analysis in the text file named "Projec
 You can find the data used for the analysis in the CSV file named "all_data.csv" \
 The actual analysis can be found in the Jupyter Notebook file (.ipynb) named "GDP_&\_Life_Expectancy.ipynb"
 
+Analysis Format:
+
+- Jupyter Notebook
+
 Programming Language:
 
 - Python 
