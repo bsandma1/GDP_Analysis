@@ -3,7 +3,7 @@ I work through the analysis of a mostly 'tidy' dataset which contains informatio
 
 I have provided my initial scope for the analysis in the text file named "Project_Scope.txt" to show my initial questions/thoughts before beginning the analysis. \
 You can find the data used for the analysis in the CSV file named "all_data.csv" \
-The actual analysis can be found in the notebook file (.ipynb) named "GDP_&\_Life_Expectancy.ipynb"
+The actual analysis can be found in the Jupyter Notebook file (.ipynb) named "GDP_&\_Life_Expectancy.ipynb"
 
 Programming Language:
 
