@@ -1,4 +1,4 @@
-# Overview of GDP Analysis
+# Overview of GDP vs. Life Expectancy Analysis
 I work through the analysis of a mostly 'tidy' dataset which contains information on six countries from the year 2000 to the year 2015.  The dataset includes information on each country's Gross Domestic Product (GDP) and life expectancy per year.  The main purpose of the analysis is to understand how GDP affects life expectancy.  I also go a little deeper into the analysis to try to make future predictions based off of the findings for GDP and life expectancy.
 
 Documents in the Repository:
